@@ -44,8 +44,8 @@ console.log('ad x è assegnato il numero', x)
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
-myName = 'Giordano'
-console.log('Ciao, mi chiamo', myName) //in concole mi ha riassegnato il nuovo valore
+// myName = 'Giordano'
+// console.log('Ciao, mi chiamo', myName) in concole mi ha riassegnato il nuovo valore
 
 const myName1 = 'Loreta'
 console.log('il mio nome è sempre', myName1)
